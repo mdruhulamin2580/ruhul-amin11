@@ -1,0 +1,107 @@
+.nav-img {
+    width: 100px;
+}
+.selaider {
+    background: #f9f9ff;
+    padding: 100px;
+}
+.div-text {
+    margin-top: 175px;
+}
+.div-text p {
+    font-size: 20px;
+}
+.div-text h1 {
+    margin-bottom: 41px;
+}
+.div-text h5 {
+    font-size: 15px;
+}
+/* img-border */
+.img-border img {
+    border: 1px solid #ddcbcbf3;
+    border-radius: 9px;
+    max-width: 100%;
+  }
+  .abut-text h5{}
+  .abut-text p{}
+  .abut-text h1{
+    font-size: 45px;
+  }
+  /* parcentes */
+  .parcentes{
+      background: #8490ff;
+      padding: 50px;
+  }
+  .parcentes2 h1 {
+    color: white;
+    margin-bottom: 28px;
+  }
+  .parcentes2 p{
+    color: white;
+  }
+  /* start */
+  .start{
+      background-color: #f9f9ff;
+  }
+  
+  .hedeerr{
+    font-size: 20px;
+  }
+  .div11{
+      background: #afafc7;
+      height: 50px;
+      width: 50px;
+      margin: auto;
+      border-radius: 50%;
+      margin: auto;
+      margin-bottom: 20px;
+     
+  }
+  .start-div{
+      background-color: aliceblue;
+      border: 1px solid rgba(71, 68, 68, 0.397);
+      padding: 15px;
+  }
+  .start p{
+      margin-bottom: 1px;
+  }
+  .start-div h5{
+
+  }
+  /* jeson */
+  .jeson img {
+    max-width: 102px;
+    position: relative;
+    bottom: -61px;
+    right: -7px;
+  }
+.josendo-div{
+    box-shadow: #afafc7;
+    border: 1px solid rgba(160, 138, 149, 0.479);
+    padding: 10px;
+   text-align: center;
+}
+/* sent mesej */
+.sentmesej{
+    background-color: antiquewhite;
+}
+.from-div{
+
+}
+.div-baton{
+    text-align: center;
+}
+.box{
+    background: #ffffff;
+    border: 1px solid #fff;
+    box-shadow: #8490ff;
+    border-radius: 4px;
+}
+.div-baton {
+    margin-bottom: 28px;
+  }
+  
+.div-baton {
+    text-align: center;
+}
