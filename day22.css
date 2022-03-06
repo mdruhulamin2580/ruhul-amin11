@@ -7,6 +7,7 @@
 }
 .div-text {
     margin-top: 175px;
+    
 }
 .div-text p {
     font-size: 20px;
@@ -16,6 +17,15 @@
 }
 .div-text h5 {
     font-size: 15px;
+}
+img{
+max-width: 100%;
+}
+.abut-text p{
+    margin-bottom: 10px;
+}
+.start-hedar{
+    margin: 0px!important;
 }
 /* img-border */
 .img-border img {
